@@ -1,0 +1,13 @@
+body {
+  background: #1f1e1e;
+  color: white;
+}
+
+@media (max-width: 768px) { 
+  body {
+    font-size: 10px;
+  }
+  img {
+    width: 10px !important;
+  }
+}

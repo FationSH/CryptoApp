@@ -1,0 +1,11 @@
+# dependencies
+client/node_modules
+server/node_modules
+
+# testing
+client/coverage
+server/coverage
+
+# production
+client/build
+server/build
